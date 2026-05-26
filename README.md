@@ -1,18 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Exploring AI-driven applications and building scalable backend systems with cloud integration.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, data engineering pipelines, and cloud-based full-stack applications.<br><br>🤝 I’m looking for help with<br>MLOps, production-level deployment, and optimizing applications for scalability.<br><br>🌱 I’m currently learning<br>Cloud Computing, system design fundamentals, and advanced backend development.<br><br>💬 Ask me about<br>Python, Data Analytics, MongoDB, REST APIs, backend architecture, and AI project planning.<br><br>⚡ Fun fact<br>I love building tech that blends psychology, behavior science, and AI to solve real-world problems.
+<div align="center">
 
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Garima!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20at%20the%20crossroads%20of%20design,%20data%20%26%20human%20behaviour&descAlignY=55&descSize=18"/>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/pundirgarima.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garimapundir_88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garima54pundir@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garima26480&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=garima26480&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garima26480&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=garima26480&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌸 About Me
+
+I'm a **postgrad student** navigating the beautiful mess of tech — currently deep-diving into frontend development, UI/UX design, and all things that make humans go *"wow, this just works."*
+
+I believe great software isn't just functional — it *feels* right. That's what I build toward.
+
+- 🎨 Getting my hands dirty with **HTML, CSS, JS, and Node.js** — slowly making things that don't break
+- 🧠 Exploring the intersection of **psychology + technology** — because understanding people is the real superpower
+- 🌱 Learning **UI/UX Design**, **React**, **Figma**, and **Creative Web Design** — one concept at a time
+- 💡 Comfortable talking about **Python, MongoDB, and the basics of how backends work**
+- ⚡ Fun fact: I think the best products are the ones built for the people who *don't* like technology
+
+---
+
+### 🚀 What I'm Building
+
+#### 📚 StudyCircle
+> *A virtual study space for introverts — because learning together shouldn't mean losing yourself.*
+
+StudyCircle lets you connect with peers and teachers in a shared video-call study environment that feels like you're actually in the same room. Not into showing your face? Go **👻 Ghost Mode** — your identity stays yours.
+
+**Tech:** MongoDB · Express · React · Node.js (MERN Stack)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend & Design**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React_(learning)-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma_(learning)-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+
+```
+UI/UX Design          ████████░░░░  Building intuition for what feels good
+React Deep Dive        ██████░░░░░░  Hooks, state, performance patterns
+Figma & Prototyping   ███████░░░░░  From wireframes to high-fidelity
+Creative Web Design   █████░░░░░░░  Motion, layout, typography — the whole vibe
+```
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=garima26480&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima26480&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=garima26480&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always up for conversations about tech, design, behavior science, or building something meaningful together.
+
+<div align="center">
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pundirgarima.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/garimapundir_88)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garima54pundir@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Design is not just what it looks like. Design is how it works."* — Steve Jobs
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
