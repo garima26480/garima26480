@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Garima!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20at%20the%20crossroads%20of%20design,%20data%20%26%20human%20behaviour&descAlignY=55&descSize=18"/>
+# Hey, I'm Garima! 👋
+### Building at the crossroads of design, data & human behaviour
 
 </div>
 
@@ -45,23 +45,19 @@ StudyCircle lets you connect with peers and teachers in a shared video-call stud
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React_(learning)-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma_(learning)-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
 
@@ -69,7 +65,6 @@ StudyCircle lets you connect with peers and teachers in a shared video-call stud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 
 ---
@@ -78,23 +73,10 @@ StudyCircle lets you connect with peers and teachers in a shared video-call stud
 
 ```
 UI/UX Design          ████████░░░░  Building intuition for what feels good
-React Deep Dive        ██████░░░░░░  Hooks, state, performance patterns
+React                 ██████░░░░░░  Components, hooks, the works
 Figma & Prototyping   ███████░░░░░  From wireframes to high-fidelity
 Creative Web Design   █████░░░░░░░  Motion, layout, typography — the whole vibe
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=garima26480&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garima26480&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=garima26480&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
@@ -115,7 +97,5 @@ I'm always up for conversations about tech, design, behavior science, or buildin
 <div align="center">
 
 *"Design is not just what it looks like. Design is how it works."* — Steve Jobs
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
